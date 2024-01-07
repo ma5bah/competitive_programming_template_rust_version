@@ -1,0 +1,7 @@
+ 		a	.	*	a
+a	false	true	false	false	false
+a	false	false	true	true	false
+b	false	false	false	true	false
+a	false	false	false	true	true
+a	false	false	false	true	true
+true
